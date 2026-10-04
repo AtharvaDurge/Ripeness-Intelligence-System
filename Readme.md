@@ -1,4 +1,3 @@
-```markdown
 # 🍎 Ripeness Intelligence System
 
 A traditional image-processing based system for **fruit identification and ripeness classification** using handcrafted visual features and Euclidean distance-based classification.
@@ -585,42 +584,8 @@ Fruit + Ripeness
 ```
 
 ---
-
-# 🎯 Project Highlights
-
-- **Traditional image processing approach**
-- **No conventional ML classifier**
-- **64 handcrafted features**
-- **Color + histogram + texture + shape analysis**
-- **Six reference profiles**
-- **Euclidean distance-based classification**
-- **Interactive Streamlit interface**
-- **Visual feature analysis**
-- **Test-set evaluation**
-
----
-
-# 🔮 Future Improvements
-
-Possible extensions include:
-
-- Support for additional fruit categories
-- Improved fruit segmentation
-- Larger and more diverse datasets
-- Additional handcrafted features
-- Alternative distance metrics
-- Real-time camera input
-- Mobile or web deployment
-- Comparison with other traditional classifiers
-
----
-
 # 👨‍💻 Author
 
 **Atharva Durge**
-
-Engineering Student  
-VJTI, Mumbai
-
 ---
 
